@@ -1906,6 +1906,7 @@ input, select, textarea {
 		position: relative;
 		background: #1f1a1c;
 		text-align: center;
+		background: url("/../../images/logo/main/color/oval/BouleyahBreads-logo-color.png");
 	}
 
 		#header > .container {
@@ -2108,7 +2109,7 @@ input, select, textarea {
 		box-shadow: inset 0px -8px 0px 0px #fff, inset 0px 8px 0px 0px #fff;
 		position: relative;
 		text-transform: uppercase;
-		background: url("/../../images/logo/market/BouleyahBreads-banner-web.jpg" width="2500");
+		background: url("/../../images/logo/market/BouleyahBreads-banner-web.jpg");
 		background-size: cover;
 		padding: 25em 0;
 	}
