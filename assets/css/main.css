@@ -2100,7 +2100,7 @@ input, select, textarea {
 	#banner {
 		position: relative;
 		overflow: hidden;
-		background: #fff;
+		background: #1f1a1c;
 		color: #fff;
 		text-align: center;
 		/*border-top: solid 2px #e5e5e5;
@@ -2110,7 +2110,7 @@ input, select, textarea {
 		text-transform: uppercase;
 		background: url("/../../images/logo/market/BouleyahBreads-banner-web.jpg");
 		background-size: cover;
-		padding: 10em 0;
+		padding: 25em 0;
 	}
 
 		#banner p {
