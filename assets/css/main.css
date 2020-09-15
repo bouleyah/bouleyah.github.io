@@ -1903,16 +1903,17 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		position: relative;
 		background: #1f1a1c;
 		text-align: center;
 		background: url("/../../images/logo/main/color/oval/BouleyahBreads-logo-color.png");
+		background-s: cover;
 	}
 
 		#header > .container {
 			padding: 7em 0 7em 0;
-			border-bottom: solid 2px #e5e5e5;
-			box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #e5e5e5;
+			border-bottom: solid 2px #1f1a1c;
+			box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #1f1a1c;
+			/*#e5e5e5*/
 		}
 
 		#header h1 {
@@ -2111,7 +2112,7 @@ input, select, textarea {
 		text-transform: uppercase;
 		background: url("/../../images/logo/market/BouleyahBreads-banner-web.jpg");
 		background-size: cover;
-		padding: 25em 0;
+		padding: 30em 0;
 	}
 
 		#banner p {
