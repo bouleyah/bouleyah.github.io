@@ -1906,11 +1906,13 @@ input, select, textarea {
 		background: #1f1a1c;
 		text-align: center;
 		background: url("/../../images/logo/main/color/oval/BouleyahBreads-logo-color_small.png");
-		background-size: cover;
+		background-size: auto;
+		background-repeat:no-repeat;
+		background-position: center;
 	}
 
 		#header > .container {
-			padding: 30em 0 7em 0;
+			padding: 43em 0 0em 0;
 			/* border-bottom: solid 2px #1f1a1c;*/
 			box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #1f1a1c;
 			/*#e5e5e5*/
