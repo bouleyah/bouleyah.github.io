@@ -1906,7 +1906,7 @@ input, select, textarea {
 		background: #1f1a1c;
 		text-align: center;
 		background: url("/../../images/logo/main/color/oval/BouleyahBreads-logo-color.png");
-		background-s: cover;
+		background-size: cover;
 	}
 
 		#header > .container {
